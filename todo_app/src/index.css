@@ -1,0 +1,42 @@
+body {
+  background-color: var(--color-background);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: "Inter", sans-serif;
+}
+
+.page {
+  margin: 0 2rem;
+}
+
+:root {
+  --color-background: #121212;
+  --color-surface: #1e1e1e;
+  --color-surface-alt: #1a1a1a;
+  --color-text-primary: #e0e0e0;
+  --color-text-secondary: #a0a0a0;
+}
+
+.Kanban-tittle {
+  color: white;
+  font-size: 36px;
+  font-weight: 500;
+  margin: 1rem 0;
+}
+
+.bg-optional {
+  background-color: #3fa7f5b3;
+}
+.bg-low {
+  background-color: #28a745b3;
+}
+.bg-medium {
+  background-color: #8b5cf6b3;
+}
+.bg-high {
+  background-color: #f43f5eb3;
+}
+.bg-critical {
+  background-color: #ff3b3bb3;
+}

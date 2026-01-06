@@ -1,0 +1,75 @@
+{
+  "520": {
+    "tags": [
+      "c++"
+    ],
+    "title": "Learning Programming Language - cpp",
+    "description": "",
+    "level": "High",
+    "duedate": "07/22/2025",
+    "created_date": "07/05/2025",
+    "subtask": [],
+    "comments": []
+  },
+  "790": {
+    "tags": [
+      "coding",
+      "placement"
+    ],
+    "title": "Coding - Resource",
+    "description": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/\n\nhttps://cses.fi/problemset/",
+    "level": "Medium",
+    "duedate": "07/05/2025",
+    "created_date": "07/12/2025",
+    "subtask": [],
+    "comments": []
+  },
+  "183": {
+    "tags": [
+      "cryptography"
+    ],
+    "title": "Make notes of Crypto",
+    "description": "Complete Module - 0\n\nlink: \nhttps://github.com/privacy-iitk/cs670-25-Monsoon",
+    "level": "Medium",
+    "duedate": "08/10/2025",
+    "created_date": "08/07/2025",
+    "subtask": [],
+    "comments": []
+  },
+  "839": {
+    "tags": [
+      "DAA"
+    ],
+    "title": "Complete Notes for Quick Sort + Selection",
+    "description": "",
+    "level": "Medium",
+    "duedate": "08/08/2025",
+    "created_date": "08/07/2025",
+    "subtask": [],
+    "comments": []
+  },
+  "490": {
+    "tags": [
+      "ML"
+    ],
+    "title": "ML - Notes",
+    "description": "LINK: \nhttps://www.cse.iitk.ac.in/users/purushot/courses/ml/2025-26-a/",
+    "level": "Optional",
+    "duedate": "08/10/2025",
+    "created_date": "08/07/2025",
+    "subtask": [],
+    "comments": []
+  },
+  "101": {
+    "tags": [
+      "GEN AI"
+    ],
+    "title": "GEN AI - Notes",
+    "description": "Link: \n\nhttps://web.cse.iitk.ac.in/users/cs787/lectures/",
+    "level": "Medium",
+    "duedate": "08/08/2025",
+    "created_date": "08/08/2025",
+    "subtask": [],
+    "comments": []
+  }
+}
